@@ -3,7 +3,8 @@
 
 
 My name is Feyyaz, 
-I'm a backend developer. I love solving problems and building applications in Java. 
+I'm a backend developer. 
+I love solving problems and building applications in Java. 
 
 I'm learning frontend technologies now.
 
