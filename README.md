@@ -21,7 +21,7 @@ I'm learning frontend technologies now.
 
 
 
-## 📚 Languages and Tools:
+## 📚 Languages and Tools
 
 
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
