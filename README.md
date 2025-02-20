@@ -7,7 +7,7 @@ I'm a backend developer.
 
 I love  building applications and solving problems in Java. 
 
-I'm learning frontend technologies now.
+
 
 <div align="center">
   
