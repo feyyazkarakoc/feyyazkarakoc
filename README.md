@@ -2,7 +2,7 @@
 
 
 
-My name is Feyyaz, 
+Hi, 
 I'm a backend developer.
 
 I love  building applications and solving problems in Java. 
