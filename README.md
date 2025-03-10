@@ -33,7 +33,8 @@ I love  building applications and solving problems in Java.
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
-[![MSSQL](https://github.com/feyyazkarakoc/MSSQLServer-Tutorial/blob/main/images/icons8-microsoft-sql-server-48%20(2).png?raw=true)](https://www.microsoft.com/en-us/sql-server)
+[![MSSQL](https://github.com/feyyazkarakoc/MSSQLServer-Tutorial/blob/main/images/icons8-microsoft-sql-server-48%20.png?raw=true)](https://www.microsoft.com/en-us/sql-server)
+
 
 
 
