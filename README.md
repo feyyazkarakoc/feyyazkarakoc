@@ -15,9 +15,17 @@ I love  building applications and solving problems in Java.
   
   <h3> 📫 Contact </h3>
 
-  [![Coderbyte](https://custom-icon-badges.demolab.com/badge/-Coderbyte-orange?style=for-the-badge&logo=code&logoColor=white)](https://www.coderbyte.com/profile/feyyaz)
-  [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-dc262d?style=for-the-badge&logo=mail&logoColor=white)](mailto:fyyzkrkc@gmail.com)
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-app-white-icon)](https://www.linkedin.com/in/feyyazkarakoc/)
+
+ <a href="https://www.coderbyte.com/profile/feyyaz" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40px" alt="coderbyte" />
+</a>&emsp;
+  <a href="https://www.linkedin.com/in/feyyazkarakoc/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
+  <a title="fyyzkrkc@mail.com" href="mailto:fyyzkrkc@mail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
+
+
+
+  
+	
 
 
 
@@ -29,13 +37,13 @@ I love  building applications and solving problems in Java.
 
 
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![Hibernate](https://skillicons.dev/icons?i=hibernate)](https://hibernate.org/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![MSSQL](https://github.com/feyyazkarakoc/MSSQLServer-Tutorial/blob/main/images/icons8-microsoft-sql-server-48%20.png?raw=true)](https://www.microsoft.com/en-us/sql-server)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
 
 
